@@ -1,18 +1,199 @@
-# About Me
-Beginner learning to code and exploring
+<div align="center">
 
-# Tech Stack
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Authentik](https://img.shields.io/badge/authentik-%23FD4B2D.svg?style=for-the-badge&logo=authentik&logoColor=white)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,50:161b22,100:6e40c9&text=RENZIE&fontColor=ffffff&fontSize=44&fontAlignY=35&animation=fadeIn&desc=learning%20%E2%80%A2%20building%20%E2%80%A2%20breaking%20%E2%80%A2%20fixing&descAlignY=56&descSize=15"/>
 
-# Stats
-![](https://github-readme-stats.vercel.app/api?username=Renzie2161&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Renzie2161&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Renzie2161&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=9B72CF&center=true&vCenter=true&width=650&lines=hey%2C+I'm+Renzie.;figuring+things+out+one+project+at+a+time.;backend+%2F+web+%2F+infrastructure;probably+debugging+something+right+now." alt="Typing SVG" />
 
-## Trophies
-![](https://github-profile-trophy.vercel.app/?username=Renzie2161&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<a href="https://github.com/Renzie2161?tab=followers">
+<img src="https://img.shields.io/github/followers/Renzie2161?style=flat-square&label=followers&color=6e40c9&labelColor=161b22" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Renzie2161&style=flat-square&color=6e40c9&label=profile+views" />
 
----
-[![](https://visitcount.itsvg.in/api?id=Renzie2161&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
+
+<br>
+
+## `$ whoami`
+
+```text
+renzie@github
+──────────────────────────────────────────────
+role       learner / builder
+focus      backend · web · infrastructure
+status     still figuring things out
+method     build → break → debug → understand
+```
+
+I like learning by actually making things.
+
+Sometimes that means writing a small script.
+Sometimes it means putting several services together and wondering why nothing works.
+
+Either way, I usually learn something from it.
+
+<br>
+
+## `$ cat stack.txt`
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,javascript,lua&theme=dark" />
+
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=flask,nodejs,postgres&theme=dark" />
+
+### Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux&theme=dark" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Authentik-FD4B2D?style=for-the-badge&logo=authentik&logoColor=white" />
+
+</div>
+
+<br>
+
+## `$ cat current_quests.md`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 Backend
+
+Learning how applications work beyond the frontend.
+
+```text
+API design
+databases
+authentication
+application structure
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🐳 Infrastructure
+
+Getting more comfortable running the things I build.
+
+```text
+Docker
+NGINX
+reverse proxies
+self-hosted services
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 Experiments
+
+Small projects are where most of the learning happens.
+
+```text
+Python scripts
+web tools
+Lua experiments
+random ideas
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Currently learning
+
+```text
+better backend patterns
+cleaner project structure
+deployment
+"why does this work?"
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `$ tail -f activity.log`
+
+<!-- DYNAMIC_ACTIVITY:START -->
+_This section updates automatically from your public GitHub activity._
+<!-- DYNAMIC_ACTIVITY:END -->
+
+<br>
+
+## `$ ls -lt ~/projects | head`
+
+<!-- DYNAMIC_PROJECTS:START -->
+_This section updates automatically with your recently pushed public repositories._
+<!-- DYNAMIC_PROJECTS:END -->
+
+<sub><!-- DYNAMIC_UPDATED:START -->profile data refreshes automatically<!-- DYNAMIC_UPDATED:END --></sub>
+
+<br>
+
+## `$ git stats`
+
+<div align="center">
+
+<img height="165"
+  src="https://github-stats-extended.vercel.app/api?username=Renzie2161&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B72CF&icon_color=9B72CF&text_color=C9D1D9&ring_color=9B72CF"
+  alt="Renzie's GitHub Stats"
+/>
+
+<img height="165"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Renzie2161&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B72CF&text_color=C9D1D9"
+  alt="Renzie's Top Languages"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renzie2161/Renzie2161/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Renzie2161/Renzie2161/output/github-contribution-grid-snake.svg" />
+  <img width="90%" alt="Renzie's contribution snake" src="https://raw.githubusercontent.com/Renzie2161/Renzie2161/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+<br>
+
+## `$ ls ./philosophy`
+
+```text
+01  learn enough to build it
+02  build enough to break it
+03  break enough to understand it
+04  repeat
+```
+
+<br>
+
+<div align="center">
+
+### `> connection still open_`
+
+<sub>
+Most repositories here are experiments, learning projects, or something I'm currently trying to understand.
+</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,50:161b22,100:6e40c9&section=footer"/>
+
+</div>
