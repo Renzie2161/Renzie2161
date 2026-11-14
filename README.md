@@ -140,18 +140,18 @@ deployment
 ## `$ ls -lt ~/projects | head`
 
 <!-- DYNAMIC_PROJECTS:START -->
+- **[rimba](https://github.com/Renzie2161/rimba)** — RIMBA is a digital encyclopedia dedicated to Indonesia's biodiversity, raising awareness and inspiring action to protect endangered species.  
+  `TypeScript` · ★ 0
 - **[RNGenius](https://github.com/Renzie2161/RNGenius)** — A probability calculator  
   `CSS` · ★ 0
 - **[SimpleWebQuiz](https://github.com/Renzie2161/SimpleWebQuiz)** — Simple Quiz Program (Web Version)  
   `JavaScript` · ★ 0
 - **[FileSwift](https://github.com/Renzie2161/FileSwift)** — A simple and effective Python script to organize your files into designated folders based on their file extensions.  
   `Python` · ★ 0
-- **[SimpleQuiz](https://github.com/Renzie2161/SimpleQuiz)** — no description yet  
-  `Python` · ★ 0
 <!-- DYNAMIC_PROJECTS:END -->
 
 <sub><!-- DYNAMIC_UPDATED:START -->
-last refreshed 2026-11-13 19:42 UTC
+last refreshed 2026-11-14 06:23 UTC
 <!-- DYNAMIC_UPDATED:END --></sub>
 
 <br>
