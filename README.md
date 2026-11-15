@@ -128,11 +128,11 @@ deployment
 ## `$ tail -f activity.log`
 
 <!-- DYNAMIC_ACTIVITY:START -->
+- `2026-11-15` — opened issue #10 in [`yayayapluto/Projek-UAS-Gacha-Quest`](https://github.com/yayayapluto/Projek-UAS-Gacha-Quest)
 - `2026-11-10` — starred [`khazuly/spamscam`](https://github.com/khazuly/spamscam)
 - `2026-07-05` — closed PR #1 in [`Renzie2161/bansos`](https://github.com/Renzie2161/bansos)
 - `2026-11-07` — closed issue #128 in [`wauputr4/bansos`](https://github.com/wauputr4/bansos)
 - `2026-10-29` — pushed **1 commit** to [`Renzie2161/bansos`](https://github.com/Renzie2161/bansos)
-- `2026-10-29` — merged PR #2 in [`Renzie2161/bansos`](https://github.com/Renzie2161/bansos)
 <!-- DYNAMIC_ACTIVITY:END -->
 
 <br>
@@ -140,18 +140,18 @@ deployment
 ## `$ ls -lt ~/projects | head`
 
 <!-- DYNAMIC_PROJECTS:START -->
+- **[parkit](https://github.com/Renzie2161/parkit)** — no description yet  
+  `mixed` · ★ 0
 - **[rimba](https://github.com/Renzie2161/rimba)** — RIMBA is a digital encyclopedia dedicated to Indonesia's biodiversity, raising awareness and inspiring action to protect endangered species.  
   `TypeScript` · ★ 0
 - **[RNGenius](https://github.com/Renzie2161/RNGenius)** — A probability calculator  
   `CSS` · ★ 0
 - **[SimpleWebQuiz](https://github.com/Renzie2161/SimpleWebQuiz)** — Simple Quiz Program (Web Version)  
   `JavaScript` · ★ 0
-- **[FileSwift](https://github.com/Renzie2161/FileSwift)** — A simple and effective Python script to organize your files into designated folders based on their file extensions.  
-  `Python` · ★ 0
 <!-- DYNAMIC_PROJECTS:END -->
 
 <sub><!-- DYNAMIC_UPDATED:START -->
-last refreshed 2026-11-15 06:33 UTC
+last refreshed 2026-11-15 18:51 UTC
 <!-- DYNAMIC_UPDATED:END --></sub>
 
 <br>
