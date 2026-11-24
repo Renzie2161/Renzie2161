@@ -141,7 +141,7 @@ deployment
 
 <!-- DYNAMIC_PROJECTS:START -->
 - **[parkit](https://github.com/Renzie2161/parkit)** — no description yet  
-  `mixed` · ★ 0
+  `C` · ★ 0
 - **[rimba](https://github.com/Renzie2161/rimba)** — RIMBA is a digital encyclopedia dedicated to Indonesia's biodiversity, raising awareness and inspiring action to protect endangered species.  
   `TypeScript` · ★ 0
 - **[RNGenius](https://github.com/Renzie2161/RNGenius)** — A probability calculator  
@@ -151,7 +151,7 @@ deployment
 <!-- DYNAMIC_PROJECTS:END -->
 
 <sub><!-- DYNAMIC_UPDATED:START -->
-last refreshed 2026-11-24 09:54 UTC
+last refreshed 2026-11-24 22:26 UTC
 <!-- DYNAMIC_UPDATED:END --></sub>
 
 <br>
